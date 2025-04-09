@@ -1,3 +1,3 @@
-# datapack_create_stdin_rpc
+# datapack_create_stdin_rpc_example
 
 TODO
