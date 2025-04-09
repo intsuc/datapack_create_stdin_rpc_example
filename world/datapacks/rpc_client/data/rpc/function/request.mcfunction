@@ -4,4 +4,4 @@ execute store result storage rpc: id int 1 \
   scoreboard players add #id rpc 1
 $data modify storage rpc: message.method set value $(method)
 $data modify storage rpc: message.params set value $(params)
-function rpc:create_pack with storage rpc:
+function rpc:write_message with storage rpc:
