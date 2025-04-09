@@ -1,0 +1,12 @@
+/libraries/
+/logs/
+/versions/
+/world/*
+!/world/datapacks
+/eula.txt
+/banned-ips.json
+/banned-players.json
+/server.jar
+/ops.json
+/usercache.json
+/whitelist.json
